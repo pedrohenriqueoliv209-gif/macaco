@@ -1,1 +1,1 @@
-: <doctype html>: para reconhecer que é um arquivo html, <html lang=”pt-br”>: usado para definir o idioma, <head>: cabeça do site, meta charset=”UTF-8”>: é o caracteres especiais.  
+rodapé da página, e os elementos do rodapé pode ser quem fez o site, informações que complementa em geral.
