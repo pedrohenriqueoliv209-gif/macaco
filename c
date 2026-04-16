@@ -1,1 +1,1 @@
-a tag <img> é para colocar imagem e a importância do atributo alt é para pessoas com deficiência visual.
+: <doctype html>: para reconhecer que é um arquivo html, <html lang=”pt-br”>: usado para definir o idioma, <head>: cabeça do site, meta charset=”UTF-8”>: é o caracteres especiais.  
