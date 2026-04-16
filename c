@@ -1,1 +1,1 @@
-: a navegação interna é internamente ela direciona o usuário para um lugar na mesma página ajudando na navegação daquela página, já a externa manda o usuário para outra página totalmente diferente.
+: <table>: É a tag que cria tabelas;  <tr>: é a tag que faz linhas dentro das tabelas; <td>: É a tag que faz células dentro de tabela, ou seja, seria uma seção para colocar dados dentro de uma tabela.
