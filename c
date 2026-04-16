@@ -1,1 +1,1 @@
-O uso da tag de parágrafo <p> dentro de uma tag de cabeçalho <h3> exemplo: <h3>Texto <p>subtópico</p></h3>
+É uma tag que tem uma seção de links principais que direciona para outras paginas importantes ou partes da pagina principal, ou seja, é uma seção de links principais para a navegação que a pagina quer passar.
