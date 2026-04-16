@@ -1,0 +1,1 @@
+Resposta: As listas ordenadas são listas que são ordenadas por números ou algarismos(123..,I,III..), as listas não ordenadas são listas que não são numeradas, elas só são listas sem numeração. As listas não ordenadas vem com símbolos que é o caso do “type=square” que é um quadrado. Ou seja, as listas não ordenadas são listadas por símbolos e não por números.
