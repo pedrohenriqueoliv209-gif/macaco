@@ -1,1 +1,1 @@
-Resposta: o atributo target=”blank”é usado para quando clicar no link automaticamente abre uma outra janela a vantagem dela é que Links externos não fazem o visitante sair do seu site, o que pode aumentar o tempo de permanência
+: a navegação interna é internamente ela direciona o usuário para um lugar na mesma página ajudando na navegação daquela página, já a externa manda o usuário para outra página totalmente diferente.
