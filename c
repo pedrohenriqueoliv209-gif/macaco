@@ -1,1 +1,1 @@
-: <table>: É a tag que cria tabelas;  <tr>: é a tag que faz linhas dentro das tabelas; <td>: É a tag que faz células dentro de tabela, ou seja, seria uma seção para colocar dados dentro de uma tabela.
+O uso da tag de parágrafo <p> dentro de uma tag de cabeçalho <h3> exemplo: <h3>Texto <p>subtópico</p></h3>
