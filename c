@@ -1,1 +1,1 @@
-É uma tag que tem uma seção de links principais que direciona para outras paginas importantes ou partes da pagina principal, ou seja, é uma seção de links principais para a navegação que a pagina quer passar.
+a tag <img> é para colocar imagem e a importância do atributo alt é para pessoas com deficiência visual.
